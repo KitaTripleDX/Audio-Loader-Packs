@@ -1,0 +1,10 @@
+{
+  "name": "Wii Shop Channel",
+  "description": "Composed by Kazumi Totaka",
+  "author": "KitaTripleDX",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
